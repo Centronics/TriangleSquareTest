@@ -1,0 +1,7 @@
+C:\Users\Администратор\Desktop\TriangleSquareTest\obj\Debug\TriangleSquareTest.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\TriangleSquareTest\bin\Debug\TriangleSquareTest.dll
+C:\Users\Администратор\Desktop\TriangleSquareTest\bin\Debug\TriangleSquareTest.pdb
+C:\Users\Администратор\Desktop\TriangleSquareTest\bin\Debug\Triangle.exe
+C:\Users\Администратор\Desktop\TriangleSquareTest\bin\Debug\Triangle.pdb
+C:\Users\Администратор\Desktop\TriangleSquareTest\obj\Debug\TriangleSquareTest.dll
+C:\Users\Администратор\Desktop\TriangleSquareTest\obj\Debug\TriangleSquareTest.pdb
